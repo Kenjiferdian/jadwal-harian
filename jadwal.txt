@@ -6,3 +6,10 @@ Jadwal Harian
 07:00 - 08:00 Podcast / Sate
 08:00 - 09:00 Sarapan
 09:00 - 10:00 Kosong
+10:00 - 14:00 CodeIgniter
+14:00 - 15:00 Istirahat
+15;00 - 18:00 Bootstrap / Javascript
+18:00 - 18:30 Mandi
+18:30 - 20:00 Makan
+20:00 - 21:00 Github
+21:00 - 23:00 Game (MAX JAM 12)
